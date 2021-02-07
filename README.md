@@ -41,3 +41,4 @@ git push origin b
 git pull
 本地1,2线上2,3
 git pull 后 1,2,3
+2
